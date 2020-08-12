@@ -1,0 +1,19 @@
+.header{
+    background-color: lemonchiffon;
+}
+ 
+.main{
+    background-color: hotpink;
+}
+.content_l{
+    background-color: gray;
+    margin: 10 5 10 20;
+}
+.content_r{
+    background-color: blue;
+    margin: 10 20 10 5;
+}
+.footer{
+    background-color: green;
+    margin: 10 0 10 0;
+}
