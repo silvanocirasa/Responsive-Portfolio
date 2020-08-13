@@ -1,19 +1,23 @@
 .header{
-    background-color: lemonchiffon;
+    background-color: lightblue;
 }
  
 .main{
-    background-color: hotpink;
+    background-color:none;
 }
 .content_l{
-    background-color: gray;
-    margin: 10 5 10 20;
+    background-color:none;
+
 }
 .content_r{
-    background-color: blue;
-    margin: 10 20 10 5;
+    background-color: none;
+
 }
 .footer{
-    background-color: green;
-    margin: 10 0 10 0;
+    background-color: none;
+
+}
+
+.navigation {
+    background-color:none;
 }
