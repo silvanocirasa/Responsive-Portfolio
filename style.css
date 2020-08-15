@@ -16,10 +16,15 @@ body{
     justify-content: space-around;
 }
 
-.home,
-.about,
-.prices {
+.navigation a {
     margin-right: 5em;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.navigation a:hover{
+    background-color: #71cfee;
 }
 
 .title {
