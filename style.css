@@ -31,8 +31,10 @@ img {
     background-color: #71cfee;
 }
 
-.title {
-    font-size: 50px;
+.logo {
+    width: 7%;
+    height: auto;
+    margin-top: 1em;
 }
 
 .container {
@@ -79,6 +81,9 @@ img {
 @media screen and (max-width: 800px) {
     .container{
         height: auto;
+    }
+    .logo {
+        margin-left: 2.2em;
     }
     .navigation {
         flex-direction: column;
